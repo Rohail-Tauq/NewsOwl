@@ -1,5 +1,5 @@
 import React from 'react';
-import './NewsCard.css';
+import './Newscard.css';
 
 const NewsCard = ({ image, title, description, url }) => {
   return (
